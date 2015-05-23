@@ -1,0 +1,65 @@
+/* 
+    Document   : header
+    Created on : 27 oct. 2013, 14:55:33
+    Author     : Okulichev Ivan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.topSpace{
+    margin-top: 12px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+#reg_sign{
+    font-weight:600;
+    color:#235E87;
+}
+#nav a{
+    margin-top: 3px;
+}
+#thumbnail_img{
+    height: 160px; 
+    margin-top: 5px;
+}
+#thumbnail_btn{
+    margin-left:23px; 
+    background:#235E87;
+    margin-bottom: 3px;
+}
+#thumbnail_btn_details{
+    margin-left:35px;
+    margin-bottom: 3px;
+}
+#cart_div{
+    margin-top: -38px;
+}
+#cart_img{
+    height: 40px;
+}
+#cart_text{
+    margin-right: 10px;
+    font-weight: 600;
+    color: #fff;
+    text-decoration: none;
+}
+#cart_total_price_lbl{
+    margin-top: -5px;
+}
+#cart_refresh{
+    color: #fff;
+    background:#235E87;
+    text-shadow: 0 0 0;
+    margin-top: -5px;
+    margin-left: 5px;
+}
+#cart_clear{
+    margin-top: -5px;
+    margin-left: 15px;
+}
+#cart_commander{
+    margin-left: 5px;
+}
+#login_newUser{
+    margin-top: 10px;
+}
+
