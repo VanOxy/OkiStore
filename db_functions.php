@@ -4,7 +4,7 @@ function db_connect() {
     //connection à la base de données
     $host = 'localhost';
     $user = 'root';
-    $password = '';
+    $password = 'password';
     $db = 'okistore';
 
     try {
